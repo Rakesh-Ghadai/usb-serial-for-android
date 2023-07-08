@@ -40,7 +40,7 @@ dependencyResolutionManagement {
 Add library to dependencies
 ```gradle
 dependencies {
-    implementation 'com.github.mik3y:usb-serial-for-android:3.5.1'
+    implementation 'com.github.Rakesh-Ghadai:usb-serial-for-android:740c458221'
 }
 ```
 
